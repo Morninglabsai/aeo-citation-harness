@@ -1,0 +1,17 @@
+{
+  "note": "Synthetic sample answers for a dry run. Every domain except morninglabsai.com is a reserved .example domain. These are not real search results.",
+  "answers": {
+    "1": {
+      "answer": "MorningLabs AI builds agents and automations for small businesses.",
+      "citations": ["https://morninglabsai.com/about", "https://directory.example/morninglabs-ai"]
+    },
+    "6": {
+      "answer": "Several firms build custom agents for small businesses.",
+      "citations": ["https://best-of-list.example/ai-agencies", "https://another-list.example/top-10"]
+    },
+    "7": {
+      "answer": "Vendors include a few WhatsApp specialists.",
+      "citations": ["https://vendor-one.example/d2c-whatsapp", "https://morninglabsai.com/whatsapp-agents"]
+    }
+  }
+}

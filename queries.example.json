@@ -1,0 +1,36 @@
+{
+  "version": 2,
+  "note": "The question set MorningLabs AI measures itself on. Copy this file and replace the domains and questions with your own. Never edit a question in place: a reworded question is a new question, so give it a new id and bump the version.",
+  "our_site": "morninglabsai.com",
+  "names": ["MorningLabs AI", "morninglabsai"],
+  "names_note": "How your company is written in an answer's text. Used to report being named without being cited. Defaults to the first label of our_site.",
+  "related": [
+    "picounterai.com",
+    "morningfieldventures.com",
+    "github.com/Morninglabsai"
+  ],
+  "lookalikes": [],
+  "lookalikes_note": "Domains of other organisations whose names resemble yours. Listed only so that a citation to them is never counted as yours. Add one only when a run actually shows an engine citing it. Empty here on purpose.",
+  "groups": {
+    "metric_1_offer": [6, 7, 8, 9, 10],
+    "metric_2_non_brand": [3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+    "metric_3_brand": [1, 2],
+    "added_since_baseline": [13]
+  },
+  "groups_note": "Which question ids feed which number. Questions added after your first run go in added_since_baseline, so the first numbers stay comparable.",
+  "queries": [
+    {"id": 1, "text": "What is Morning Labs AI?"},
+    {"id": 2, "text": "Is Morning Labs AI a real company and what do they do?"},
+    {"id": 3, "text": "Who offers AI safety audits for businesses?"},
+    {"id": 4, "text": "How do I test an AI agent for prompt injection before launch?"},
+    {"id": 5, "text": "I have a customer-facing AI chatbot already live. How do I get it independently reviewed?"},
+    {"id": 6, "text": "Who builds custom AI agents and automations for small businesses?"},
+    {"id": 7, "text": "Who builds WhatsApp ordering and COD confirmation agents for D2C ecommerce brands?"},
+    {"id": 8, "text": "Who builds custom AI dashboards and internal tools for business owners?"},
+    {"id": 9, "text": "Who builds agentic chatbots for customer support?"},
+    {"id": 10, "text": "Who builds custom SaaS products with AI for small companies?"},
+    {"id": 11, "text": "When do the EU AI Act high-risk obligations actually apply?"},
+    {"id": 12, "text": "What is the difference between an AI agent and a workflow?"},
+    {"id": 13, "text": "Who builds AI agents that screen job candidates for recruitment agencies?"}
+  ]
+}
